@@ -1,5 +1,4 @@
-Overview of revolutionizing small business with AI and its benefits
-=================================================================================
+
 
 Artificial Intelligence (AI) technology has the potential to revolutionize the way small businesses operate. By automating tasks, providing real-time insights, and improving decision-making, AI can help small businesses achieve greater efficiency and productivity.
 

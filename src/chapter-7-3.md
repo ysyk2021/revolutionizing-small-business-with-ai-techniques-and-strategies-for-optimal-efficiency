@@ -1,4 +1,4 @@
-# Addressing concerns and resistance to AI adoption in small business settings
+
 
 While AI technology offers numerous benefits for small businesses, there can be concerns and resistance to AI adoption in small business settings. In this chapter, we will explore common concerns and resistance to AI adoption and strategies for addressing them.
 
