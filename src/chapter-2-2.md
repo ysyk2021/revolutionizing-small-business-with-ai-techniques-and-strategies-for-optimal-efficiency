@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) technology has become an essential part of modern business operations. In this chapter, we will explore the different types of AI and their applications in small business management.
 
 Natural Language Processing (NLP)

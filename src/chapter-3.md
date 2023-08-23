@@ -1,5 +1,4 @@
 
-
 Small businesses often face challenges in managing their workload and resources. One way to address these challenges is through the use of Artificial Intelligence (AI) for automating repetitive tasks and processes, increasing efficiency and productivity.
 
 Use of AI for Automating Repetitive Tasks and Processes

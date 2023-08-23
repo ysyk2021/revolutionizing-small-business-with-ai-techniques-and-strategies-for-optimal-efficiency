@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore potential limitations and ethical considerations when using AI for data analysis in small businesses.
 
 Potential Limitations of AI for Data Analysis

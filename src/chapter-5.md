@@ -1,5 +1,4 @@
 
-
 Customer experience is crucial for the success of small businesses. With the emergence of Artificial Intelligence (AI) technology, it has become easier to personalize customer interactions and improve customer satisfaction. In this chapter, we will explore how AI can be used for improving customer experience.
 
 Use of AI for Personalizing Customer Interactions and Improving Customer Satisfaction
